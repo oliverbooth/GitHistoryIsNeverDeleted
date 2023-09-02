@@ -1,0 +1,3 @@
+# Git history is never deleted!
+
+This is the first commit of the repository according to the Git log, so it's not immediately apparent that there's any extra information here. However, this commit is actually an amend commit, the original hash was actually 5bef2f690247058083381eacc79f8ffb468de30d, the diff of which you can view [here](https://github.com/oliverbooth/GitHistoryIsNeverDeleted/commit/5bef2f690247058083381eacc79f8ffb468de30d), or you can browse the repo at the state of this commit [here](https://github.com/oliverbooth/GitHistoryIsNeverDeleted/tree/5bef2f690247058083381eacc79f8ffb468de30d).
